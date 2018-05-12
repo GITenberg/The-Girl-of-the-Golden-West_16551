@@ -1,0 +1,30 @@
+_repo: The-Girl-of-the-Golden-West_16551
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Belasco, David
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '6401'
+    url: http://www.gutenberg.org/2009/agents/6401
+    wikipedia: http://en.wikipedia.org/wiki/David_Belasco
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2005-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Women pioneers -- Fiction'
+- !lcsh 'Western stories'
+title: The Girl of the Golden West
+url: http://www.gutenberg.org/ebooks/16551
